@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishekpremnath
-- 👀 I’m interested in App Development, Programming
-- 🌱 I’m currently learning Python, Android Studio, Machine Learning, Web Development
-- 💞️ I’m looking to collaborate on App Development Projects, Machine Learning 
+- 👀 I’m interested in App Development, Programming and UI/UX 
+- 🌱 I’m currently learning Python, Android Studio, Machine Learning, UI/UX
+- 💞️ I’m looking to collaborate on App Development Projects, Machine Learning, UI/UX
 - 📫 How to reach me abhishekpremnath28@gmail.com
 
 <!---
